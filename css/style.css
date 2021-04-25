@@ -13,3 +13,9 @@ padding: 10px;
 border: 5px outset goldenrod;
 padding: 10px;
 }
+footer p{
+
+    text-align: center;
+    color: rebeccapurple;
+    font-weight: bold;
+}
