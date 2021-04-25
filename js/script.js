@@ -6,8 +6,8 @@ document.write(`<h3 class="ans" style="color: rgba(255, 0, 0, 0.507);background-
 
 let age = parseInt(prompt("Enter your age please"));
 document.write(`<h3 class="question" style="color: #FDD2FF;background-color: rgb(184, 99, 2);font-size:24px;"> Enter your age please ?</h3>`);
-alert("WOW !! , The world was a different place, In " + (2021 - age));
-document.write(`<h3 class="ans" style="color: rgb(6, 124, 6);background-color: #eee;">WOW !! , The world was a different place, In ${(2021 - age)}</h3>`);
+alert("WOW !! The world was a different place, In " + (2021 - age));
+document.write(`<h3 class="ans" style="color: rgb(6, 124, 6);background-color: #eee;">WOW !! The world was a different place, In ${(2021 - age)}</h3>`);
 
 
 let nationality = prompt("Enter your nationality please");
